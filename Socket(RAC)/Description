@@ -12,3 +12,8 @@ Right now this script is not dynamic but for doing that, We have to purchase our
  Then what you have to do is just plant the file in someone's laptop and execute it 
  
  
+ Requirements :
+  1) Python installed
+  2) requests library 
+  
+ 

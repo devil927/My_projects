@@ -1,0 +1,14 @@
+This project is based on Remote Access control , Its just an old school trick displayed with the help of these python scripts where a person can remotely access someone pc/laptop
+With the help of these two files 
+
+**Client** -> for the controlled one 
+**Server** -> for the controller 
+
+Right now this script is not dynamic but for doing that, We have to purchase our own private ip.
+
+**Procedure : **
+ For implementing this old school hacking 
+ Just customise client and server script with your ip 
+ Then what you have to do is just plant the file in someone's laptop and execute it 
+ 
+ 
